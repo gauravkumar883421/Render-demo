@@ -40,4 +40,12 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Local development settings
+.env
+.env.local 
